@@ -1,0 +1,6 @@
+bot-token: "BOT_TOKEN"
+news-channel: "CHANNEL_ID" # The channel which the join, leave, start, and stop message will be sent to.
+discord-webhook: "https://discord.com/api/webhooks/EXAMPLE" # The webhook which will connect both the discord and minecraft.
+minecraft-chat-format: "[&bDiscord | %role%&f] &f%username% » %message%"
+enabled-servers:
+  - Lobby
